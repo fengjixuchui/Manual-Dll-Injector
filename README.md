@@ -1,2 +1,2 @@
 # csgoInjector
-## Works like a charm and no bans YET
+## No bans detected yet (9:04 - 2/2/2020)
