@@ -10,3 +10,10 @@ to mid anti cheat engines. (Vac , Eazy Anti Cheat...) But it will get detected b
 # BAN DETECTED (20:11 - 6/13/2020)(Cs:Go - FACEIT, ESEA, EAZY)
 
 CSGO added some new protection methods so the game just crashes upon injecting. I don't have the time now to fix this issue.
+
+
+# TO EVADE BANS:
+
+Encrypt your strings, add junk code monthly. Don't share your version with people. 
+
+Change the code to your needs.
